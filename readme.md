@@ -17,12 +17,21 @@ In the process of EDA, the research found that many data have a certain correlat
 # 4. References
 
 [1] M. J. Dixon and S. G. Coles, “Modelling association football scores and inefficiencies in the football betting market,” Journal of the Royal Statistical Society: Series C (Applied Statistics), vol. 46, no. 2, pp. 265–280, 1997.
+
 [2] M. P. da Silva, F. Gonçalves, and L. Ramos, “Football Classification Predications,” GitHub. [Online]. Available: https://github.com/motapinto/football-classification- predications/blob/master/src/Supervised%20Learning%20Models.ipynb. [Accessed: 10-Mar-2022].
+
 [3] N. Razali, A. Mustapha, F. A. Yatim, and R. Ab Aziz, “Predicting football matches results using Bayesian Networks for English Premier League (EPL),” IOP Conference Series: Materials Science and Engineering, vol. 226, p. 012099, 2017.
+
 [4] S. Samba, “Football result prediction by deep learning algorithms.” [Online]. Available: https://www.researchgate.net/profile/Stefan- Samba/publication/334415630_Football_Result_Prediction_by_Deep_Learning_Algorithms/links/5d2 834b9458515c11c273ba3/Football-Result-Prediction-by-Deep-Learning-Algorithms.pdf. [Accessed: 10-Mar-2022].
+
 [5] H. R. Azhari, Y. Widyaningsih, and D. Lestari, “Predicting final result of football match using Poisson regression model,” Journal of Physics: Conference Series, vol. 1108, p. 012066, 2018.
+
 [6] T. M. Mitchell, Machine learning. New York: McGraw Hill, 2017.
+
 [7] A. Boz, “Large Scale Machine Learning using NVIDIA CUDA,” CodeProject, 09-Mar-2012. [Online]. Available: https://www.codeproject.com/Articles/336147/Large-Scale-Machine-Learning-using- NVIDIA-CUDA. [Accessed: 10-Mar-2022].
+
 [8] E. M. Condon, B. L. Golden, and E. A. Wasil, “Predicting the success of nations at the summer olympics using neural networks,” Computers & Operations Research, vol. 26, no. 13, pp. 1243–1265, 1999.
+
 [9] A. P. Rotshtein, M. Posner, and A. B. Rakityanskaya, “Football predictions based on a fuzzy model with genetic and neural tuning - cybernetics and Systems Analysis,” SpringerLink. [Online]. Available: https://link.springer.com/article/10.1007/s10559-005-0098-4. [Accessed: 11-Mar-2022].
+
 [10] A. J. Silva, A. M. Costa, P. M. Oliveira, V. M. Reis, J. Saavedra, J. Perl, A. Rouboa, and D. A. Marinho, “The use of neural network technology to model swimming performance,” Journal of sports science & medicine, 01-Mar-2007. [Online]. Available: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3778687/. [Accessed: 11-Mar-2022].
